@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LMSBackend.API/LMSBackend.API.csproj" />
+    <Project Path="src/LMSBackend.Application/LMSBackend.Application.csproj" />
+    <Project Path="src/LMSBackend.Domain/LMSBackend.Domain.csproj" />
+    <Project Path="src/LMSBackend.Infrastructure/LMSBackend.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LMSBackend.API.Tests/LMSBackend.API.Tests.csproj" />
+    <Project Path="tests/LMSBackend.Application.Tests/LMSBackend.Application.Tests.csproj" />
+    <Project Path="tests/LMSBackend.Infrastructure.Tests/LMSBackend.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
